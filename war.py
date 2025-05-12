@@ -25,6 +25,11 @@ global waiting_clients
 waiting_clients = []
 
 
+"""
+I would like to use 2 late days for this assignment
+
+"""
+
 class Command(Enum):
     """
     The byte values sent as the first byte of any message in the war protocol.
