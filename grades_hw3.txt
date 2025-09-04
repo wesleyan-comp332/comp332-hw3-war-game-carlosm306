@@ -1,0 +1,7 @@
+1: Two clients successfully completed a game with the server in under 3 seconds.
+  Instead of killing the game due to bad message, you are printing bad numbers, other than that code works fine.
+  Need to close sockets for bad clients instead of printing bad numbers
+2: The server correctly handled a game with a buggy client, and continued functioning as expected afterwards.
+3: Successfully completed multiple games at the same time.
+
+Total points: 95 points
